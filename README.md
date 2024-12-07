@@ -1,1 +1,1 @@
-# blog-app
+# Full-stack blog-app
