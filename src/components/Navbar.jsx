@@ -33,7 +33,7 @@ const Navbar = () => {
         </div>
       </div>
       {/*DESCTOP MENU */}
-      <div className=' hidden md:flex items-center gap-8 xl:gap-12 font-medium'>
+      <div className='hidden md:flex items-center gap-8 xl:gap-12 font-medium'>
         <Link to='/'>Home</Link>
         <Link to='/'>Trending</Link>
         <Link to='/'>Most Popular</Link>
